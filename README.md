@@ -67,6 +67,6 @@ GitHub Actions was implemented to automate various aspects of the development pr
 With final measures the flashcard quiz application serves as an effective educational tool that engages users in a fun and interactive way. The design considerations focus on user experience, functionality, and accessibility, ensuring that the app meets the needs of its users. The utilization of GitHub for version control and collaboration, along with GitHub Actions for automation, enhances the development process, making it more efficient and reliable. This comprehensive approach ensures that the application is well-structured, maintainable, and ready for future enhancements.
 
 LINKS:
-YouTube video :
-GitHub repository : 
+YouTube video : https://youtu.be/sPp9FCHysa0
+GitHub repository : https://github.com/teshaanpatel/formative-assignment-2/tree/master
 
